@@ -1,0 +1,27 @@
+{
+  "release_id": 1359,
+  "date": "2024-07-01T15:53:23.953+00:00",
+  "manifest_version": "1",
+  "firmwares": [
+    {
+      "component": "Nordic",
+      "version": "3.14.15.9",
+      "hardware_version": "3.14.15.9",
+      "hsm_lifecyle": "Development",
+      "hsm_version": "",
+      "application_version": "3.14.15.9",
+      "application_git": "",
+      "calibration_version": "3.14.15.9",
+      "calibration_git": "",
+      "bootloader_version": "3.14.15.9",
+      "bootloader_git": "",
+      "cgw_ecu_index": 36,
+      "firmware_optional": false,
+      "ota_compatible": true,
+      "sha": "eccce177c01c3d0594b0d5746907958164f6f7ba",
+      "file": "NORDIC/RackMultipart20240628-5456-i99vz4.zip",
+      "background_mode": false,
+      "force_update": true
+    }
+  ]
+}
